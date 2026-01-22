@@ -69,8 +69,8 @@ FluxCurrent makes power a first-class citizen:
 
 ## 购买方式 | How to Get One
 
-> 我们采用“社区优先 / 先内测再公开”的硬件发布模式（可参考下方公告格式）。  
-> We follow a community-first hardware release model (see announcement-style below).
+> 我们采用“社区优先 / 先内测再公开”的硬件发布模式。  
+> We follow a community-first hardware release model.
 
 - **[2025.xx.xx]** FluxCurrent v0.x 内测版本开放，QQ用户群已开启！请扫描二维码加入：  
   **[2025.xx.xx]** FluxCurrent v0.x early access is live — QQ group is now open! Scan the QR code to join:
