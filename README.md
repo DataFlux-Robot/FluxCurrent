@@ -40,13 +40,18 @@ FluxCurrent makes power a first-class citizen:
 
 ### 初版产品与效率测试 | v0 Hardware & Efficiency
 
-![FluxCurrent v0 Hardware](./HAREWARE.jpg)
+<p align="center">
+  <img src="./HAREWARE.jpg" alt="FluxCurrent v0 Hardware" width="30%">
+</p>
 
-![Efficiency Test 1](./EFF.png)
+<p align="center">
+  <img src="./EFF.png" alt="Efficiency Test 1" width="30%">
+</p>
 
-![Efficiency Test 2](./EFF2.png)
+<p align="center">
+  <img src="./EFF2.png" alt="Efficiency Test 2" width="30%">
+</p>
 
-* * *
 ---
 
 ## 后续计划 | Roadmap
