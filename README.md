@@ -72,14 +72,14 @@ FluxCurrent makes power a first-class citizen:
 > 我们采用“社区优先 / 先内测再公开”的硬件发布模式。  
 > We follow a community-first hardware release model.
 
-- **[2025.xx.xx]** FluxCurrent v0.x 内测版本开放，QQ用户群已开启！请扫描二维码加入：  
-  **[2025.xx.xx]** FluxCurrent v0.x early access is live — QQ group is now open! Scan the QR code to join:
+- **[2026.01.22]** FluxCurrent v0.x 内测版本开放，QQ用户群已开启！请扫描二维码加入：  
+  **[2025.01.22]** FluxCurrent v0.x early access is live — QQ group is now open! Scan the QR code to join:
 
   `![WeChat Group QR](./assets/wechat_group_qr.png)`
 
-- **[2025.xx.xx]** 加入我们一起打造 FluxCurrent，推动模块化人形具身系统落地。我们正在招聘全职 / 校招 / 实习。  
+- **[2025.01.21]** 加入我们一起打造 FluxCurrent，推动模块化人形具身系统落地。我们正在招聘全职 / 校招 / 实习。  
   简历请发送至：**17792404420@163.com** ：  
-  **[2025.xx.xx]** Join us to build FluxCurrent and shape the future of modular humanoid embodiment. We’re hiring full-time / new grads / interns.  
+  **[2025.01.21]** Join us to build FluxCurrent and shape the future of modular humanoid embodiment. We’re hiring full-time / new grads / interns.  
   Send your resume to: **17792404420@163.com**.
 ---
 
