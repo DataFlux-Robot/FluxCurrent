@@ -75,7 +75,9 @@ FluxCurrent makes power a first-class citizen:
 - **[2026.01.22]** FluxCurrent v0.x 内测版本开放，QQ用户群已开启！请扫描二维码加入：  
   **[2025.01.22]** FluxCurrent v0.x early access is live — QQ group is now open! Scan the QR code to join:
 
-<img src="./f3ab9fa9516dabcfc82e65fb7f163d21.jpg" alt="QQ Group QR" width="30%">
+<p align="center">
+  <img src="./f3ab9fa9516dabcfc82e65fb7f163d21.jpg" alt="QQ Group QR" width="30%">
+</p>
 
 - **[2025.01.21]** 加入我们一起打造 FluxCurrent，推动模块化人形具身系统落地。我们正在招聘全职 / 校招 / 实习。  
   简历请发送至：**17792404420@163.com** ：  
