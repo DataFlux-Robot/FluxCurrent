@@ -38,11 +38,15 @@ FluxCurrent makes power a first-class citizen:
 
 ---
 
-## 近期进展 | Recent Progress
+### 初版产品与效率测试 | v0 Hardware & Efficiency
 
-- **完成 FluxCurrent GaN 电源原型与多路母线设计**，并在多种机械臂与关节模组上完成兼容性测试，验证“乐高式机体”的电源兼容性。  
-  Completed a GaN power prototype and multi-rail bus design, validated via compatibility tests across multiple arm/joint modules.
+![FluxCurrent v0 Hardware](./HAREWARE.jpg)
 
+![Efficiency Test 1](./EFF.png)
+
+![Efficiency Test 2](./EFF2.png)
+
+* * *
 ---
 
 ## 后续计划 | Roadmap
